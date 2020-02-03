@@ -9,12 +9,14 @@
 <div align="center">
   <a href="#dart-sobre-o-projeto"> Sobre o projeto </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-principais-aprendizados"> Aprendizados </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fire-desafio"> Desafio</a>
+  <a href="#fire-sobre-desafio"> Sobre o desafio</a>
 </div>
 
 ## :dart: Sobre o projeto
 
-  Criar o back end de uma aplicação ultilizando [Node](https://nodejs.org) para um salão de beleza  fictício , o **GoBarber** :lipstick::lipstick:
+  Criar o back end de uma aplicação ultilizando [Node](https://nodejs.org) para um **salão de beleza** :lipstick::lipstick:, o GoBarber
+
+  *OBS: O projeto é para um salão ficticio* :wink:
 
 
 ## :books: Principais aprendizados
@@ -29,7 +31,7 @@ Aprendi a ultilizar o express através das classes e a separar de uma maneira me
 
  - **[Debug do VS Code]()**
 
- Aprendi (finalmente :tada:) como se usa o debug do VS Code , e tambem aprendi como se usa junto com o [Nodemon](https://www.npmjs.com/package/nodemon)
+ Aprendi (finalmente :tada:) como se usa o debug do VS Code , e tambem aprendi a usar junto com o [Nodemon](https://www.npmjs.com/package/nodemon)
 
  - **[Docker](https://docker.com)**
 
@@ -38,11 +40,13 @@ Aprendi a ultilizar o express através das classes e a separar de uma maneira me
 - **Entre outras coisas legais**
 
 
-## :fire: **Desafio**
+## :fire: **Sobre o desafio**
 
 O desafio é criar uma aplicação para uma distribuidora, a **Fast Feet** :truck: :truck:
 
 Para ver o meu codigo e saber mais sobre o desafio :point_right: [Clique Aqui](https://github.com/MauroDeSouza/node-bootcamp-gostack-challenge-fastfeet) :point_left:
+
+*OBS: O projeto é para um distribuidora ficticia* :wink:
 
 ---
 
