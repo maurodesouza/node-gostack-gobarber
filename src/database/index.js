@@ -26,7 +26,7 @@ class Database {
   mongo() {
     this.connectionMongo = connect('mongodb://192.168.99.100:27017/gobarber', {
       useNewUrlParser: true,
-      useFindAndModify: true,
+      useFindAndModify: false,
       useUnifiedTopology: true,
     });
   }
