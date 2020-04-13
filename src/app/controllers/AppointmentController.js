@@ -42,6 +42,7 @@ class AppointmentController {
           },
         },
       ],
+      order: [['date']],
     });
 
     return res.json(appointments);
@@ -112,10 +113,6 @@ class AppointmentController {
       date: hourStart,
     });
 
-    /**
-     * Notify provider
-     */
-
     const { name } = await User.findByPk(req.userId);
 
     const formattedDate = format(
@@ -131,7 +128,7 @@ class AppointmentController {
       user: provider_id,
     });
 
-    return res.json({ appointment });
+    return res.json(appointment);
   }
 
   async delete({ userId, params: { id } }, res) {
